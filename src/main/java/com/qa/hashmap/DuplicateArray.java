@@ -1,6 +1,6 @@
 package com.qa.hashmap;
 
-public class HashMap {
+public class DuplicateArray {
 
 	public static void main(String[] args) {
 
