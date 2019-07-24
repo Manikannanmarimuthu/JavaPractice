@@ -15,5 +15,4 @@ public class ReverseString {
 		StringBuilder sb = new StringBuilder(s);
 		System.out.println(sb.reverse());
 	}
-
 }
